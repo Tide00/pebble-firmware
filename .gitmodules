@@ -1,4 +1,4 @@
-[submodule "sdk-zephyr"]
+[submodule "zephyr"]
 	path = zephyr
 	url = https://github.com/nrfconnect/sdk-zephyr.git
 	branch = v2.4.0-ncs1
